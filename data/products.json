@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "name": "Portable SSD (Electronics)",
+    "price": 155.14,
+    "description": "High-quality and durable design for everyday use."
+  },
+  {
+    "id": 2,
+    "name": "LED Monitor (Electronics)",
+    "price": 58.12,
+    "description": "High-quality and durable design for everyday use."
+  },
+  {
+    "id": 3,
+    "name": "Portable SSD (Electronics)",
+    "price": 19.47,
+    "description": "Supports fast charging and modern compatibility."
+  },
+  {
+    "id": 4,
+    "name": "USB-C Hub (Electronics)",
+    "price": 28.28,
+    "description": "Ergonomic design ensures comfort during extended use."
+  },
+  {
+    "id": 5,
+    "name": "Portable SSD (Electronics)",
+    "price": 147.85,
+    "description": "Perfect for both home and office environments."
+  },
+  {
+    "id": 6,
+    "name": "Wireless Mouse (Electronics)",
+    "price": 193.87,
+    "description": "Perfect for both home and office environments."
+  },
+  {
+    "id": 7,
+    "name": "Webcam (Electronics)",
+    "price": 172.08,
+    "description": "Perfect for both home and office environments."
+  },
+  {
+    "id": 8,
+    "name": "Noise Cancelling Headphones (Electronics)",
+    "price": 153.32,
+    "description": "High-quality and durable design for everyday use."
+  },
+  {
+    "id": 9,
+    "name": "Webcam (Electronics)",
+    "price": 64.08,
+    "description": "Eco-friendly materials and energy-efficient performance."
+  },
+  {
+    "id": 10,
+    "name": "Smartwatch (Electronics)",
+    "price": 92.53,
+    "description": "Supports fast charging and modern compatibility."
+  },
+  {
+    "id": 11,
+    "name": "LED Monitor (Electronics)",
+    "price": 117.72,
+    "description": "Supports fast charging and modern compatibility."
+  },
+  {
+    "id": 12,
+    "name": "Portable SSD (Electronics)",
+    "price": 122.21,
+    "description": "Available in multiple colors and sizes."
+  },
+  {
+    "id": 13,
+    "name": "Noise Cancelling Headphones (Electronics)",
+    "price": 185.13,
+    "description": "A stylish choice for modern users."
+  },
+  {
+    "id": 14,
+    "name": "Smart Light Bulb (Electronics)",
+    "price": 147.04,
+    "description": "Compact and lightweight for maximum convenience."
+  },
+  {
+    "id": 15,
+    "name": "Portable SSD (Electronics)",
+    "price": 16.66,
+    "description": "Ergonomic design ensures comfort during extended use."
+  },
+  {
+    "id": 16,
+    "name": "Smartwatch (Electronics)",
+    "price": 106.17,
+    "description": "Perfect for both home and office environments."
+  },
+  {
+    "id": 17,
+    "name": "Noise Cancelling Headphones (Electronics)",
+    "price": 23.93,
+    "description": "Eco-friendly materials and energy-efficient performance."
+  },
+  {
+    "id": 18,
+    "name": "LED Monitor (Electronics)",
+    "price": 179.41,
+    "description": "High-quality and durable design for everyday use."
+  },
+  {
+    "id": 19,
+    "name": "Bluetooth Speaker (Electronics)",
+    "price": 67.14,
+    "description": "Compact and lightweight for maximum convenience."
+  },
+  {
+    "id": 20,
+    "name": "Smart Light Bulb (Electronics)",
+    "price": 75.21,
+    "description": "Comes with a 1-year warranty and customer support."
+  },
+  {
+    "id": 21,
+    "name": "Smart Light Bulb (Electronics)",
+    "price": 158.83,
+    "description": "Available in multiple colors and sizes."
+  },
+  {
+    "id": 22,
+    "name": "Webcam (Electronics)",
+    "price": 193.56,
+    "description": "Available in multiple colors and sizes."
+  },
+  {
+    "id": 23,
+    "name": "Mechanical Keyboard (Electronics)",
+    "price": 105.74,
+    "description": "Comes with a 1-year warranty and customer support."
+  },
+  {
+    "id": 24,
+    "name": "Portable SSD (Electronics)",
+    "price": 51.37,
+    "description": "A stylish choice for modern users."
+  },
+  {
+    "id": 25,
+    "name": "Portable SSD (Electronics)",
+    "price": 48.21,
+    "description": "Available in multiple colors and sizes."
+  },
+  {
+    "id": 26,
+    "name": "Portable SSD (Electronics)",
+    "price": 140.09,
+    "description": "High-quality and durable design for everyday use."
+  },
+  {
+    "id": 27,
+    "name": "Wireless Mouse (Electronics)",
+    "price": 84.41,
+    "description": "Easy to clean and maintain for long-term reliability."
+  },
+  {
+    "id": 28,
+    "name": "Bluetooth Speaker (Electronics)",
+    "price": 199.39,
+    "description": "Comes with a 1-year warranty and customer support."
+  },
+  {
+    "id": 29,
+    "name": "Smart Light Bulb (Electronics)",
+    "price": 191.18,
+    "description": "Eco-friendly materials and energy-efficient performance."
+  },
+  {
+    "id": 30,
+    "name": "USB-C Hub (Electronics)",
+    "price": 108.01,
+    "description": "High-quality and durable design for everyday use."
+  },
+  {
+    "id": 31,
+    "name": "Wireless Mouse (Electronics)",
+    "price": 46.25,
+    "description": "Compact and lightweight for maximum convenience."
+  },
+  {
+    "id": 32,
+    "name": "USB-C Hub (Electronics)",
+    "price": 115.35,
+    "description": "A stylish choice for modern users."
+  },
+  {
+    "id": 33,
+    "name": "Noise Cancelling Headphones (Electronics)",
+    "price": 73.12,
+    "description": "High-quality and durable design for everyday use."
+  },
+  {
+    "id": 34,
+    "name": "Webcam (Electronics)",
+    "price": 74.93,
+    "description": "Perfect for both home and office environments."
+  },
+  {
+    "id": 35,
+    "name": "Noise Cancelling Headphones (Electronics)",
+    "price": 103.8,
+    "description": "High-quality and durable design for everyday use."
+  },
+  {
+    "id": 36,
+    "name": "Smart Light Bulb (Electronics)",
+    "price": 166.67,
+    "description": "High-quality and durable design for everyday use."
+  },
+  {
+    "id": 37,
+    "name": "Noise Cancelling Headphones (Electronics)",
+    "price": 77.16,
+    "description": "Eco-friendly materials and energy-efficient performance."
+  },
+  {
+    "id": 38,
+    "name": "LED Monitor (Electronics)",
+    "price": 85.37,
+    "description": "Eco-friendly materials and energy-efficient performance."
+  },
+  {
+    "id": 39,
+    "name": "USB-C Hub (Electronics)",
+    "price": 141.26,
+    "description": "Eco-friendly materials and energy-efficient performance."
+  },
+  {
+    "id": 40,
+    "name": "Wireless Mouse (Electronics)",
+    "price": 197.15,
+    "description": "Easy to clean and maintain for long-term reliability."
+  },
+  {
+    "id": 41,
+    "name": "Wall Clock (Home)",
+    "price": 194.16,
+    "description": "Easy to clean and maintain for long-term reliability."
+  },
+  {
+    "id": 42,
+    "name": "Iron (Home)",
+    "price": 30.97,
+    "description": "Ergonomic design ensures comfort during extended use."
+  },
+  {
+    "id": 43,
+    "name": "Coffee Maker (Home)",
+    "price": 76.17,
+    "description": "Compact and lightweight for maximum convenience."
+  },
+  {
+    "id": 44,
+    "name": "Wall Clock (Home)",
+    "price": 184.37,
+    "description": "Ergonomic design ensures comfort during extended use."
+  },
+  {
+    "id": 45,
+    "name": "Iron (Home)",
+    "price": 193.71,
+    "description": "Ergonomic design ensures comfort during extended use."
+  },
+  {
+    "id": 46,
+    "name": "Table Lamp (Home)",
+    "price": 41.34,
+    "description": "Ergonomic design ensures comfort during extended use."
+  },
+  {
+    "id": 47,
+    "name": "Rice Cooker (Home)",
+    "price": 21.04,
+    "description": "High-quality and durable design for everyday use."
+  },
+  {
+    "id": 48,
+    "name": "Toaster (Home)",
+    "price": 188.37,
+    "description": "A stylish choice for modern users."
+  },
+  {
+    "id": 49,
+    "name": "Air Purifier (Home)",
+    "price": 165.23,
+    "description": "Perfect for both home and office environments."
+  },
+  {
+    "id": 50,
+    "name": "Air Purifier (Home)",
+    "price": 38.83,
+    "description": "Available in multiple colors and sizes."
+  },
+  {
+    "id": 51,
+    "name": "Vacuum Cleaner (Home)",
+    "price": 103.46,
+    "description": "A stylish choice for modern users."
+  },
+  {
+    "id": 52,
+    "name": "Blender (Home)",
+    "price": 187.96,
+    "description": "Ergonomic design ensures comfort during extended use."
+  },
+  {
+    "id": 53,
+    "name": "Iron (Home)",
+    "price": 190.0,
+    "description": "Eco-friendly materials and energy-efficient performance."
+  },
+  {
+    "id": 54,
+    "name": "Toaster (Home)",
+    "price": 103.62,
+    "description": "Available in multiple colors and sizes."
+  },
+  {
+    "id": 55,
+    "name": "Air Purifier (Home)",
+    "price": 159.47,
+    "description": "Easy to clean and maintain for long-term reliability."
+  },
+  {
+    "id": 56,
+    "name": "Table Lamp (Home)",
+    "price": 37.78,
+    "description": "Perfect for both home and office environments."
+  },
+  {
+    "id": 57,
+    "name": "Electric Kettle (Home)",
+    "price": 179.6,
+    "description": "A stylish choice for modern users."
+  },
+  {
+    "id": 58,
+    "name": "Blender (Home)",
+    "price": 47.8,
+    "description": "Easy to clean and maintain for long-term reliability."
+  },
+  {
+    "id": 59,
+    "name": "Electric Kettle (Home)",
+    "price": 174.83,
+    "description": "Ergonomic design ensures comfort during extended use."
+  },
+  {
+    "id": 60,
+    "name": "Wall Clock (Home)",
+    "price": 128.24,
+    "description": "Supports fast charging and modern compatibility."
+  },
+  {
+    "id": 61,
+    "name": "Coffee Maker (Home)",
+    "price": 25.43,
+    "description": "A stylish choice for modern users."
+  },
+  {
+    "id": 62,
+    "name": "Coffee Maker (Home)",
+    "price": 49.05,
+    "description": "Ergonomic design ensures comfort during extended use."
+  },
+  {
+    "id": 63,
+    "name": "Wall Clock (Home)",
+    "price": 62.78,
+    "description": "Ergonomic design ensures comfort during extended use."
+  },
+  {
+    "id": 64,
+    "name": "Air Purifier (Home)",
+    "price": 118.72,
+    "description": "Easy to clean and maintain for long-term reliability."
+  },
+  {
+    "id": 65,
+    "name": "Electric Kettle (Home)",
+    "price": 49.27,
+    "description": "Comes with a 1-year warranty and customer support."
+  },
+  {
+    "id": 66,
+    "name": "Table Lamp (Home)",
+    "price": 190.08,
+    "description": "Available in multiple colors and sizes."
+  },
+  {
+    "id": 67,
+    "name": "Wall Clock (Home)",
+    "price": 70.04,
+    "description": "Eco-friendly materials and energy-efficient performance."
+  },
+  {
+    "id": 68,
+    "name": "Toaster (Home)",
+    "price": 176.32,
+    "description": "Easy to clean and maintain for long-term reliability."
+  },
+  {
+    "id": 69,
+    "name": "Coffee Maker (Home)",
+    "price": 148.81,
+    "description": "Compact and lightweight for maximum convenience."
+  },
+  {
+    "id": 70,
+    "name": "Table Lamp (Home)",
+    "price": 146.7,
+    "description": "High-quality and durable design for everyday use."
+  },
+  {
+    "id": 71,
+    "name": "Wall Clock (Home)",
+    "price": 16.82,
+    "description": "Easy to clean and maintain for long-term reliability."
+  },
+  {
+    "id": 72,
+    "name": "Rice Cooker (Home)",
+    "price": 175.95,
+    "description": "Compact and lightweight for maximum convenience."
+  },
+  {
+    "id": 73,
+    "name": "Vacuum Cleaner (Home)",
+    "price": 138.15,
+    "description": "Compact and lightweight for maximum convenience."
+  },
+  {
+    "id": 74,
+    "name": "Coffee Maker (Home)",
+    "price": 33.17,
+    "description": "Available in multiple colors and sizes."
+  },
+  {
+    "id": 75,
+    "name": "Air Purifier (Home)",
+    "price": 157.15,
+    "description": "Perfect for both home and office environments."
+  },
+  {
+    "id": 76,
+    "name": "Vacuum Cleaner (Home)",
+    "price": 75.66,
+    "description": "Compact and lightweight for maximum convenience."
+  },
+  {
+    "id": 77,
+    "name": "Electric Kettle (Home)",
+    "price": 45.49,
+    "description": "Eco-friendly materials and energy-efficient performance."
+  },
+  {
+    "id": 78,
+    "name": "Electric Kettle (Home)",
+    "price": 18.45,
+    "description": "High-quality and durable design for everyday use."
+  },
+  {
+    "id": 79,
+    "name": "Toaster (Home)",
+    "price": 105.51,
+    "description": "High-quality and durable design for everyday use."
+  },
+  {
+    "id": 80,
+    "name": "Electric Kettle (Home)",
+    "price": 38.59,
+    "description": "Supports fast charging and modern compatibility."
+  },
+  {
+    "id": 81,
+    "name": "Yoga Mat (Fitness)",
+    "price": 50.41,
+    "description": "Perfect for both home and office environments."
+  },
+  {
+    "id": 82,
+    "name": "Water Bottle (Fitness)",
+    "price": 57.42,
+    "description": "Compact and lightweight for maximum convenience."
+  },
+  {
+    "id": 83,
+    "name": "Resistance Band (Fitness)",
+    "price": 95.54,
+    "description": "Comes with a 1-year warranty and customer support."
+  },
+  {
+    "id": 84,
+    "name": "Yoga Mat (Fitness)",
+    "price": 48.5,
+    "description": "Perfect for both home and office environments."
+  },
+  {
+    "id": 85,
+    "name": "Resistance Band (Fitness)",
+    "price": 195.04,
+    "description": "Available in multiple colors and sizes."
+  },
+  {
+    "id": 86,
+    "name": "Pull-up Bar (Fitness)",
+    "price": 24.77,
+    "description": "A stylish choice for modern users."
+  },
+  {
+    "id": 87,
+    "name": "Foam Roller (Fitness)",
+    "price": 86.2,
+    "description": "Perfect for both home and office environments."
+  },
+  {
+    "id": 88,
+    "name": "Pull-up Bar (Fitness)",
+    "price": 111.83,
+    "description": "Eco-friendly materials and energy-efficient performance."
+  },
+  {
+    "id": 89,
+    "name": "Fitness Tracker (Fitness)",
+    "price": 32.84,
+    "description": "Ergonomic design ensures comfort during extended use."
+  },
+  {
+    "id": 90,
+    "name": "Water Bottle (Fitness)",
+    "price": 93.81,
+    "description": "High-quality and durable design for everyday use."
+  },
+  {
+    "id": 91,
+    "name": "Jump Rope (Fitness)",
+    "price": 74.45,
+    "description": "High-quality and durable design for everyday use."
+  },
+  {
+    "id": 92,
+    "name": "Resistance Band (Fitness)",
+    "price": 163.28,
+    "description": "Compact and lightweight for maximum convenience."
+  },
+  {
+    "id": 93,
+    "name": "Pull-up Bar (Fitness)",
+    "price": 110.91,
+    "description": "Supports fast charging and modern compatibility."
+  },
+  {
+    "id": 94,
+    "name": "Pull-up Bar (Fitness)",
+    "price": 53.78,
+    "description": "Available in multiple colors and sizes."
+  },
+  {
+    "id": 95,
+    "name": "Yoga Mat (Fitness)",
+    "price": 181.92,
+    "description": "Perfect for both home and office environments."
+  },
+  {
+    "id": 96,
+    "name": "Foam Roller (Fitness)",
+    "price": 57.87,
+    "description": "Easy to clean and maintain for long-term reliability."
+  },
+  {
+    "id": 97,
+    "name": "Fitness Tracker (Fitness)",
+    "price": 143.69,
+    "description": "Eco-friendly materials and energy-efficient performance."
+  },
+  {
+    "id": 98,
+    "name": "Jump Rope (Fitness)",
+    "price": 140.85,
+    "description": "Compact and lightweight for maximum convenience."
+  },
+  {
+    "id": 99,
+    "name": "Foam Roller (Fitness)",
+    "price": 187.19,
+    "description": "Easy to clean and maintain for long-term reliability."
+  },
+  {
+    "id": 100,
+    "name": "Massage Gun (Fitness)",
+    "price": 102.4,
+    "description": "Comes with a 1-year warranty and customer support."
+  },
+  {
+    "id": 101,
+    "name": "Massage Gun (Fitness)",
+    "price": 55.52,
+    "description": "Available in multiple colors and sizes."
+  },
+  {
+    "id": 102,
+    "name": "Resistance Band (Fitness)",
+    "price": 86.28,
+    "description": "Comes with a 1-year warranty and customer support."
+  },
+  {
+    "id": 103,
+    "name": "Dumbbell Set (Fitness)",
+    "price": 129.66,
+    "description": "Eco-friendly materials and energy-efficient performance."
+  },
+  {
+    "id": 104,
+    "name": "Foam Roller (Fitness)",
+    "price": 188.92,
+    "description": "Ergonomic design ensures comfort during extended use."
+  },
+  {
+    "id": 105,
+    "name": "Resistance Band (Fitness)",
+    "price": 140.84,
+    "description": "Perfect for both home and office environments."
+  },
+  {
+    "id": 106,
+    "name": "Dumbbell Set (Fitness)",
+    "price": 48.08,
+    "description": "High-quality and durable design for everyday use."
+  },
+  {
+    "id": 107,
+    "name": "Foam Roller (Fitness)",
+    "price": 112.16,
+    "description": "A stylish choice for modern users."
+  },
+  {
+    "id": 108,
+    "name": "Resistance Band (Fitness)",
+    "price": 198.71,
+    "description": "Compact and lightweight for maximum convenience."
+  },
+  {
+    "id": 109,
+    "name": "Resistance Band (Fitness)",
+    "price": 135.26,
+    "description": "Compact and lightweight for maximum convenience."
+  },
+  {
+    "id": 110,
+    "name": "Pull-up Bar (Fitness)",
+    "price": 99.28,
+    "description": "Compact and lightweight for maximum convenience."
+  },
+  {
+    "id": 111,
+    "name": "Water Bottle (Fitness)",
+    "price": 90.26,
+    "description": "Eco-friendly materials and energy-efficient performance."
+  },
+  {
+    "id": 112,
+    "name": "Pull-up Bar (Fitness)",
+    "price": 184.08,
+    "description": "Supports fast charging and modern compatibility."
+  },
+  {
+    "id": 113,
+    "name": "Resistance Band (Fitness)",
+    "price": 191.54,
+    "description": "Easy to clean and maintain for long-term reliability."
+  },
+  {
+    "id": 114,
+    "name": "Yoga Mat (Fitness)",
+    "price": 80.53,
+    "description": "Ergonomic design ensures comfort during extended use."
+  },
+  {
+    "id": 115,
+    "name": "Fitness Tracker (Fitness)",
+    "price": 145.65,
+    "description": "Supports fast charging and modern compatibility."
+  },
+  {
+    "id": 116,
+    "name": "Foam Roller (Fitness)",
+    "price": 168.69,
+    "description": "High-quality and durable design for everyday use."
+  },
+  {
+    "id": 117,
+    "name": "Jump Rope (Fitness)",
+    "price": 72.16,
+    "description": "Eco-friendly materials and energy-efficient performance."
+  },
+  {
+    "id": 118,
+    "name": "Massage Gun (Fitness)",
+    "price": 124.44,
+    "description": "Comes with a 1-year warranty and customer support."
+  },
+  {
+    "id": 119,
+    "name": "Jump Rope (Fitness)",
+    "price": 155.11,
+    "description": "Perfect for both home and office environments."
+  },
+  {
+    "id": 120,
+    "name": "Water Bottle (Fitness)",
+    "price": 50.58,
+    "description": "Easy to clean and maintain for long-term reliability."
+  },
+  {
+    "id": 121,
+    "name": "Calendar (Office)",
+    "price": 103.16,
+    "description": "Eco-friendly materials and energy-efficient performance."
+  },
+  {
+    "id": 122,
+    "name": "Ballpoint Pen (Office)",
+    "price": 139.98,
+    "description": "Easy to clean and maintain for long-term reliability."
+  },
+  {
+    "id": 123,
+    "name": "Office Chair (Office)",
+    "price": 17.32,
+    "description": "A stylish choice for modern users."
+  },
+  {
+    "id": 124,
+    "name": "Stapler (Office)",
+    "price": 143.99,
+    "description": "Comes with a 1-year warranty and customer support."
+  },
+  {
+    "id": 125,
+    "name": "Stapler (Office)",
+    "price": 64.05,
+    "description": "Available in multiple colors and sizes."
+  },
+  {
+    "id": 126,
+    "name": "File Cabinet (Office)",
+    "price": 180.8,
+    "description": "Easy to clean and maintain for long-term reliability."
+  },
+  {
+    "id": 127,
+    "name": "File Cabinet (Office)",
+    "price": 76.11,
+    "description": "Easy to clean and maintain for long-term reliability."
+  },
+  {
+    "id": 128,
+    "name": "File Cabinet (Office)",
+    "price": 42.8,
+    "description": "Compact and lightweight for maximum convenience."
+  },
+  {
+    "id": 129,
+    "name": "Desk Lamp (Office)",
+    "price": 110.65,
+    "description": "Eco-friendly materials and energy-efficient performance."
+  },
+  {
+    "id": 130,
+    "name": "Calendar (Office)",
+    "price": 58.53,
+    "description": "A stylish choice for modern users."
+  },
+  {
+    "id": 131,
+    "name": "Desk Organizer (Office)",
+    "price": 64.48,
+    "description": "Eco-friendly materials and energy-efficient performance."
+  },
+  {
+    "id": 132,
+    "name": "Calendar (Office)",
+    "price": 173.39,
+    "description": "Ergonomic design ensures comfort during extended use."
+  },
+  {
+    "id": 133,
+    "name": "Notebook (Office)",
+    "price": 137.12,
+    "description": "High-quality and durable design for everyday use."
+  },
+  {
+    "id": 134,
+    "name": "Whiteboard (Office)",
+    "price": 21.54,
+    "description": "High-quality and durable design for everyday use."
+  },
+  {
+    "id": 135,
+    "name": "Desk Organizer (Office)",
+    "price": 147.02,
+    "description": "Ergonomic design ensures comfort during extended use."
+  },
+  {
+    "id": 136,
+    "name": "Calendar (Office)",
+    "price": 137.77,
+    "description": "Perfect for both home and office environments."
+  },
+  {
+    "id": 137,
+    "name": "Ballpoint Pen (Office)",
+    "price": 128.34,
+    "description": "Eco-friendly materials and energy-efficient performance."
+  },
+  {
+    "id": 138,
+    "name": "Office Chair (Office)",
+    "price": 57.99,
+    "description": "Supports fast charging and modern compatibility."
+  },
+  {
+    "id": 139,
+    "name": "Notebook (Office)",
+    "price": 107.54,
+    "description": "High-quality and durable design for everyday use."
+  },
+  {
+    "id": 140,
+    "name": "Desk Lamp (Office)",
+    "price": 113.3,
+    "description": "Supports fast charging and modern compatibility."
+  },
+  {
+    "id": 141,
+    "name": "Desk Lamp (Office)",
+    "price": 69.72,
+    "description": "Comes with a 1-year warranty and customer support."
+  },
+  {
+    "id": 142,
+    "name": "Calendar (Office)",
+    "price": 92.83,
+    "description": "Easy to clean and maintain for long-term reliability."
+  },
+  {
+    "id": 143,
+    "name": "Notebook (Office)",
+    "price": 151.11,
+    "description": "Eco-friendly materials and energy-efficient performance."
+  },
+  {
+    "id": 144,
+    "name": "Office Chair (Office)",
+    "price": 147.65,
+    "description": "Easy to clean and maintain for long-term reliability."
+  },
+  {
+    "id": 145,
+    "name": "Desk Lamp (Office)",
+    "price": 30.13,
+    "description": "Comes with a 1-year warranty and customer support."
+  },
+  {
+    "id": 146,
+    "name": "Stapler (Office)",
+    "price": 74.0,
+    "description": "Comes with a 1-year warranty and customer support."
+  },
+  {
+    "id": 147,
+    "name": "Calendar (Office)",
+    "price": 58.86,
+    "description": "Compact and lightweight for maximum convenience."
+  },
+  {
+    "id": 148,
+    "name": "Calendar (Office)",
+    "price": 13.17,
+    "description": "A stylish choice for modern users."
+  },
+  {
+    "id": 149,
+    "name": "File Cabinet (Office)",
+    "price": 119.67,
+    "description": "Perfect for both home and office environments."
+  },
+  {
+    "id": 150,
+    "name": "Stapler (Office)",
+    "price": 107.25,
+    "description": "Eco-friendly materials and energy-efficient performance."
+  },
+  {
+    "id": 151,
+    "name": "Office Chair (Office)",
+    "price": 121.72,
+    "description": "Supports fast charging and modern compatibility."
+  },
+  {
+    "id": 152,
+    "name": "Calendar (Office)",
+    "price": 132.4,
+    "description": "A stylish choice for modern users."
+  },
+  {
+    "id": 153,
+    "name": "Office Chair (Office)",
+    "price": 114.7,
+    "description": "Available in multiple colors and sizes."
+  },
+  {
+    "id": 154,
+    "name": "File Cabinet (Office)",
+    "price": 174.88,
+    "description": "Compact and lightweight for maximum convenience."
+  },
+  {
+    "id": 155,
+    "name": "Whiteboard (Office)",
+    "price": 158.32,
+    "description": "Comes with a 1-year warranty and customer support."
+  },
+  {
+    "id": 156,
+    "name": "Calendar (Office)",
+    "price": 130.79,
+    "description": "Perfect for both home and office environments."
+  },
+  {
+    "id": 157,
+    "name": "Desk Lamp (Office)",
+    "price": 102.69,
+    "description": "Perfect for both home and office environments."
+  },
+  {
+    "id": 158,
+    "name": "File Cabinet (Office)",
+    "price": 98.29,
+    "description": "High-quality and durable design for everyday use."
+  },
+  {
+    "id": 159,
+    "name": "Desk Organizer (Office)",
+    "price": 103.23,
+    "description": "Compact and lightweight for maximum convenience."
+  },
+  {
+    "id": 160,
+    "name": "Desk Organizer (Office)",
+    "price": 75.79,
+    "description": "Easy to clean and maintain for long-term reliability."
+  },
+  {
+    "id": 161,
+    "name": "Sunglasses (Fashion)",
+    "price": 39.62,
+    "description": "Ergonomic design ensures comfort during extended use."
+  },
+  {
+    "id": 162,
+    "name": "Sneakers (Fashion)",
+    "price": 192.6,
+    "description": "High-quality and durable design for everyday use."
+  },
+  {
+    "id": 163,
+    "name": "Wallet (Fashion)",
+    "price": 43.04,
+    "description": "Eco-friendly materials and energy-efficient performance."
+  },
+  {
+    "id": 164,
+    "name": "Denim Jacket (Fashion)",
+    "price": 168.28,
+    "description": "Eco-friendly materials and energy-efficient performance."
+  },
+  {
+    "id": 165,
+    "name": "Leather Belt (Fashion)",
+    "price": 167.09,
+    "description": "High-quality and durable design for everyday use."
+  },
+  {
+    "id": 166,
+    "name": "Scarf (Fashion)",
+    "price": 141.11,
+    "description": "Comes with a 1-year warranty and customer support."
+  },
+  {
+    "id": 167,
+    "name": "Hat (Fashion)",
+    "price": 145.98,
+    "description": "Perfect for both home and office environments."
+  },
+  {
+    "id": 168,
+    "name": "Hat (Fashion)",
+    "price": 81.57,
+    "description": "Perfect for both home and office environments."
+  },
+  {
+    "id": 169,
+    "name": "Sunglasses (Fashion)",
+    "price": 166.94,
+    "description": "High-quality and durable design for everyday use."
+  },
+  {
+    "id": 170,
+    "name": "Sneakers (Fashion)",
+    "price": 81.92,
+    "description": "Eco-friendly materials and energy-efficient performance."
+  },
+  {
+    "id": 171,
+    "name": "T-Shirt (Fashion)",
+    "price": 38.21,
+    "description": "High-quality and durable design for everyday use."
+  },
+  {
+    "id": 172,
+    "name": "Sneakers (Fashion)",
+    "price": 194.04,
+    "description": "Perfect for both home and office environments."
+  },
+  {
+    "id": 173,
+    "name": "Wallet (Fashion)",
+    "price": 60.41,
+    "description": "Supports fast charging and modern compatibility."
+  },
+  {
+    "id": 174,
+    "name": "Sunglasses (Fashion)",
+    "price": 179.3,
+    "description": "High-quality and durable design for everyday use."
+  },
+  {
+    "id": 175,
+    "name": "Hat (Fashion)",
+    "price": 179.97,
+    "description": "Perfect for both home and office environments."
+  },
+  {
+    "id": 176,
+    "name": "Denim Jacket (Fashion)",
+    "price": 73.43,
+    "description": "Available in multiple colors and sizes."
+  },
+  {
+    "id": 177,
+    "name": "Jeans (Fashion)",
+    "price": 194.58,
+    "description": "Easy to clean and maintain for long-term reliability."
+  },
+  {
+    "id": 178,
+    "name": "T-Shirt (Fashion)",
+    "price": 128.17,
+    "description": "High-quality and durable design for everyday use."
+  },
+  {
+    "id": 179,
+    "name": "Leather Belt (Fashion)",
+    "price": 183.51,
+    "description": "Supports fast charging and modern compatibility."
+  },
+  {
+    "id": 180,
+    "name": "Backpack (Fashion)",
+    "price": 126.63,
+    "description": "Easy to clean and maintain for long-term reliability."
+  },
+  {
+    "id": 181,
+    "name": "Scarf (Fashion)",
+    "price": 100.25,
+    "description": "Ergonomic design ensures comfort during extended use."
+  },
+  {
+    "id": 182,
+    "name": "T-Shirt (Fashion)",
+    "price": 185.62,
+    "description": "Available in multiple colors and sizes."
+  },
+  {
+    "id": 183,
+    "name": "Sunglasses (Fashion)",
+    "price": 80.57,
+    "description": "Perfect for both home and office environments."
+  },
+  {
+    "id": 184,
+    "name": "Hat (Fashion)",
+    "price": 163.22,
+    "description": "Easy to clean and maintain for long-term reliability."
+  },
+  {
+    "id": 185,
+    "name": "Jeans (Fashion)",
+    "price": 110.92,
+    "description": "A stylish choice for modern users."
+  },
+  {
+    "id": 186,
+    "name": "Scarf (Fashion)",
+    "price": 69.63,
+    "description": "High-quality and durable design for everyday use."
+  },
+  {
+    "id": 187,
+    "name": "Wallet (Fashion)",
+    "price": 157.08,
+    "description": "Compact and lightweight for maximum convenience."
+  },
+  {
+    "id": 188,
+    "name": "Hat (Fashion)",
+    "price": 67.75,
+    "description": "Ergonomic design ensures comfort during extended use."
+  },
+  {
+    "id": 189,
+    "name": "T-Shirt (Fashion)",
+    "price": 171.38,
+    "description": "Ergonomic design ensures comfort during extended use."
+  },
+  {
+    "id": 190,
+    "name": "Denim Jacket (Fashion)",
+    "price": 89.79,
+    "description": "Easy to clean and maintain for long-term reliability."
+  },
+  {
+    "id": 191,
+    "name": "Sneakers (Fashion)",
+    "price": 38.06,
+    "description": "Easy to clean and maintain for long-term reliability."
+  },
+  {
+    "id": 192,
+    "name": "Denim Jacket (Fashion)",
+    "price": 183.5,
+    "description": "Ergonomic design ensures comfort during extended use."
+  },
+  {
+    "id": 193,
+    "name": "Sunglasses (Fashion)",
+    "price": 140.82,
+    "description": "Available in multiple colors and sizes."
+  },
+  {
+    "id": 194,
+    "name": "Scarf (Fashion)",
+    "price": 130.19,
+    "description": "Perfect for both home and office environments."
+  },
+  {
+    "id": 195,
+    "name": "Hat (Fashion)",
+    "price": 159.74,
+    "description": "A stylish choice for modern users."
+  },
+  {
+    "id": 196,
+    "name": "Hat (Fashion)",
+    "price": 57.74,
+    "description": "Supports fast charging and modern compatibility."
+  },
+  {
+    "id": 197,
+    "name": "Jeans (Fashion)",
+    "price": 85.26,
+    "description": "Compact and lightweight for maximum convenience."
+  },
+  {
+    "id": 198,
+    "name": "T-Shirt (Fashion)",
+    "price": 91.25,
+    "description": "Perfect for both home and office environments."
+  },
+  {
+    "id": 199,
+    "name": "Leather Belt (Fashion)",
+    "price": 53.17,
+    "description": "High-quality and durable design for everyday use."
+  },
+  {
+    "id": 200,
+    "name": "Denim Jacket (Fashion)",
+    "price": 171.94,
+    "description": "High-quality and durable design for everyday use."
+  }
+]

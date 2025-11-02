@@ -16,8 +16,7 @@ def main_menu():
         print("5. Exit")
 
         user_choice = input("You've Got Options!:")
-        break
+
+        if user_choice == "1":
     else:
         print("Invalid Option")
-
-main_menu()
