@@ -12,7 +12,7 @@ class Product:
         return f"{self.id}. {self.name} - ${self.price:.2f}"
 
 class ProductCatalogService:
-    def __init__(self, data_path="../data/products.json"):
+    def __init__(self, data_path="data/products.json"):
         self.products = self.load_products(data_path)
 
     # Load product database from json file
