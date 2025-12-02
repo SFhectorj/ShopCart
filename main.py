@@ -1,5 +1,7 @@
 from services.product_catalog import ProductCatalogService
 from services.cart_service import CartService
+from services.emoji_service import get_emoji
+from services.notification_service import send_notification
 
 # Handle user interaction and navigation between menus
 
@@ -7,8 +9,12 @@ def main_menu():
     """
     Display main menu and prompt user for input
     """
+    cart_emoji = get_emoji("cart")
+    magnify_emoji = get_emoji("magnify")
+    door_emoji = get_emoji("door")
+
     print("\n============================")
-    print("         SHOPCART")
+    print(f"         SHOPCART {cart_emoji}")
     print("For all of you daily needs!")
     print("============================")
     print("\033[4mWELCOME!\033[0m")
@@ -19,15 +25,17 @@ def main_menu():
     print()
     print("\033[4mYou have options!\033[0m")
     print()
-    print("1. Browse Products")
-    print("2. View Cart")
-    print("3. Exit")
+    print(f"1. Browse Products {magnify_emoji}")
+    print(f"2. View Cart {cart_emoji}")
+    print(f"3. Exit {door_emoji}")
 
 def browse_products(catalog, cart):
+
+    shop_emoji = get_emoji("shop")
     
     while True:
         print("\n============================")
-        print("         Catalog🛍️")
+        print(f"         Catalog{shop_emoji}")
         print("============================")
         products = catalog.get_products()
         # Show 20 products
@@ -54,7 +62,11 @@ def browse_products(catalog, cart):
                 return
             product = catalog.get_from_id(product_id)
             if not product:
-                print("Product not found. Please enter a valid Product ID.")
+                msg = send_notification("error", "Product not found. Please enter a valid Product ID.")
+                border = "-------------------------------------------"
+                print(border)
+                print(msg)
+                print(border)
                 return
             try:
                 qty = int(input("Enter the quantity desired: ").strip())
@@ -68,6 +80,11 @@ def browse_products(catalog, cart):
 
             if confirm == "y":
                 cart.add_item(product, qty)
+                msg = send_notification("success", f"Added {qty} × {product.name} to your cart.")
+                border = "-------------------------------------------"
+                print(border)
+                print(msg)
+                print(border)
             else:
                 print(" Returning to product details...")
 
@@ -80,6 +97,7 @@ def view_product_details(catalog, cart):
     '''
     Display product deatils and add to cart
     '''
+    magnify_emoji = get_emoji("magnify")
     product_id_input = input("\nEnter the product ID to view details (or 'B' to go back):").strip()
 
     if product_id_input.lower() == 'b':
@@ -93,12 +111,16 @@ def view_product_details(catalog, cart):
 
     product = catalog.get_from_id(product_id)
     if not product:
-        print("Product not found. Please enter a valid Product ID.")
+        msg = send_notification("error", "Product not found. Please enter a valid Product ID.")
+        border = "-------------------------------------------"
+        print(border)
+        print(msg)
+        print(border)
         return
     
     while True:
         print("\n========================================")
-        print("            🔎 Product Details")
+        print(f"            {magnify_emoji} Product Details")
         print("========================================")
         print(f"ID:          {product.id}")
         print(f"Name:        {product.name}")
@@ -122,6 +144,11 @@ def view_product_details(catalog, cart):
 
             if confirm == "y":
                 cart.add_item(product, qty)
+                msg = send_notification("success", f"Added {qty} × {product.name} to your cart.")
+                border = "-------------------------------------------"
+                print(border)
+                print(msg)
+                print(border)
             else:
                 print(" Returning to product details...")
         elif choice == "2":
@@ -141,11 +168,21 @@ def main():
         # elif choice == "2":
         #     view_product_details(catalog, cart)
         elif choice == "2":
-            cart.view_cart()
+            try:
+                cart.view_cart()
+            except ValueError as e:
+                print("\nCalculator Service Error:")
+                print("The calculator microservice returned an invalid result.")
+                print(f"Details: {e}")
+                print("Please try again.\n")
         elif choice == "3":
             confirm = input("Are you sure you want to exit? (y/n): ").strip().lower()
             if confirm == "y":
-                print("Thank you for using ShopCart! Goodbye!")
+                msg = send_notification("info", "Thank you for using ShopCart! Goodbye!")
+                border = "-------------------------------------------"
+                print(border)
+                print(msg)
+                print(border)
                 break
         else:
             print("Invalid Choice. Please select an option from the menu.")

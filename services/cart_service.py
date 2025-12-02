@@ -2,6 +2,36 @@ import os
 import time
 import uuid
 
+# CALL CALCULATOR MICRO-SERVICE (SMALL POOL)
+CALC_REQ = "../calculator-service/_request.txt"
+CALC_RES = "../calculator-service/_response.txt"
+
+def calc(num1, num2, operator):
+    # Clear response before sending request
+    open(CALC_RES, "w").close()
+
+    # Write calculation request
+    with open(CALC_REQ, "w") as f:
+        f.write(f"{num1},{num2},{operator}")
+
+    # Wait for response
+    while True:
+        if os.path.exists(CALC_RES):
+            with open(CALC_RES, "r") as f:
+                result = f.read().strip()
+            if result != "":
+                break
+        time.sleep(0.25)
+
+    # Clear response for next call
+    open(CALC_RES, "w").close()
+
+    if result == "ERROR":
+        raise ValueError("Calculator microservice returned an error")
+
+    return float(result)
+
+# CALL PAYMENT MICRO-SERVICE (BIG POOL)
 PAYMENT_REQ_DIR = "../Payment-Service/requests"
 PAYMENT_RES_DIR = "../Payment-Service/responses"
 
@@ -41,8 +71,8 @@ class CartService:
         print("========================================")
         total = 0
         for item in self.items:
-            subtotal = item["price"] * item["qty"]
-            total += subtotal
+            subtotal = calc(item["price"], item["qty"], "*")
+            total = calc(total, subtotal, "+")
             print(f"{item['name']} (x{item['qty']}) - ${subtotal:.2f}")
         print("----------------------------------------")
         print(f"Total: ${total:.2f}")
@@ -101,7 +131,11 @@ class CartService:
             print("Your cart is empty.")
             return
 
-        total = sum(item["price"] * item["qty"] for item in self.items)
+        total = 0
+        for item in self.items:
+            line_total = calc(item["price"], item["qty"], "*")
+            total = calc(total, line_total, "+")
+
         print(f"\nYour total is: ${total:.2f}")
 
         card = input("Enter card number: ")
