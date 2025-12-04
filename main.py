@@ -32,6 +32,9 @@ def main_menu():
 def browse_products(catalog, cart):
 
     shop_emoji = get_emoji("shop")
+    cart_emoji = get_emoji("cart")
+    magnify_emoji = get_emoji("magnify")
+    door_emoji = get_emoji("door")
     
     while True:
         print("\n============================")
@@ -43,9 +46,9 @@ def browse_products(catalog, cart):
             print(p)
         print(f"\nShowing {min(20, len(products))} of {len(products)} products.")
         print("\nOptions:")
-        print("1. View Product Details")
-        print("2. Add item to cart")
-        print("3. Return to Main Menu")
+        print(f"1. View Product Details {magnify_emoji}")
+        print(f"2. Add item to cart {cart_emoji}")
+        print(f"3. Return to Main Menu {door_emoji}")
 
         choice = input("Select an Option: ").strip()
 
@@ -97,7 +100,10 @@ def view_product_details(catalog, cart):
     '''
     Display product deatils and add to cart
     '''
+    cart_emoji = get_emoji("cart")
     magnify_emoji = get_emoji("magnify")
+    door_emoji = get_emoji("door")
+
     product_id_input = input("\nEnter the product ID to view details (or 'B' to go back):").strip()
 
     if product_id_input.lower() == 'b':
@@ -127,8 +133,8 @@ def view_product_details(catalog, cart):
         print(f"Price:       ${product.price:.2f}")
         print(f"Description: {product.description}")
         print("----------------------------------------")
-        print("1. Add to Cart")
-        print("2. Return to Product List")
+        print(f"1. Add to Cart {cart_emoji}")
+        print(f"2. Return to Product List {door_emoji}")
 
         choice = input("Select an option: ").strip()
         if choice == "1":
