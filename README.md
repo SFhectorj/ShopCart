@@ -1,4 +1,5 @@
 #Architecture
+```
 ShopCart-2/
 │
 ├── main.py
@@ -16,3 +17,4 @@ ShopCart-2/
     ├── payment_service/
     ├── emoji_microservice/
     └── notification_microservice/
+```
