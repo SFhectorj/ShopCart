@@ -1,6 +1,6 @@
 #Architecture
 ```
-ShopCart-2/
+ShopCart/
 │
 ├── main.py
 ├── data/
